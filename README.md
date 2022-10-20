@@ -6,3 +6,9 @@ It settles on a random beanType from the beanTypes array using Math.random()
 Notice export and required keyword to connect both files....
 
 Imagine creating a story.... with setTimeout
+
+Output:
+1. Heading to the store to buy beans...
+2. //3 sec wait...
+3. I bought black beans because they were on sale.
+4. Great! I'm making black beans for dinner tonight!
